@@ -5,7 +5,7 @@ offline_mode = False
 # alice sending a bit with value 0 to bob
 # should result in almost all counts being detected by detector 1
 Laser,x=3,y=0,orientation=0,mode=H,power=0.004
-BeamSplit,x=6,y=0,orientation=0,basis=H/V
+PolarBeamSplit,x=6,y=0,orientation=0,basis=H/V
 Detector,x=8,y=0,orientation=180,dark_count_rate=1
 
 # There are 8 combinations that can be made with the basis, bit parameters...
