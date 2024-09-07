@@ -1,0 +1,13 @@
+num_seconds = 1e-3
+offline_mode = False
+
+# Experiment 1 and 2: both need to be performed during the protocol
+# Verifiers rely on Bell test in order to measure the entangled 
+# state set up by the prover in both H/V and A/D bases
+EntanglementSource,x=5,y=4,strength=1,phase=xy/2,type=1
+PolarBeamSplit,x=1,y=4,orientation=0,basis=H/V
+Detector,x=0,y=4,orientation=0,dark_count=1
+Detector,x=1,y=3,orientation=270,dark_count=1
+PolarBeamSplit,x=1,y=4,orientation=0,basis=H/V
+Detector,x=0,y=4,orientation=0,dark_count=1
+Detector,x=1,y=3,orientation=270,dark_count=1
