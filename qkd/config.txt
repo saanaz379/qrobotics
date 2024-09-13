@@ -9,5 +9,3 @@ PolarBeamSplit,x=6,y=0,orientation=0,basis=H/V
 Detector,x=8,y=0,orientation=180,dark_count_rate=1
 
 # There are 8 combinations that can be made with the basis, bit parameters...
-  
-# Experiment 2: same basis for 
