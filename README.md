@@ -49,6 +49,8 @@ Babbush, R., Berry, D. W., Kothari, R., Somma, R. D., & Wiebe, N. (2023). Expone
 
 Kwak, Y., Yun, W. J., Jung, S., Kim, J.-K., & Kim, J. (2021). Introduction to Quantum Reinforcement Learning: Theory and PennyLane-based Implementation. 2021 International Conference on Information and Communication Technology Convergence (ICTC), 416–420. https://doi.org/10.1109/ICTC52510.2021.9620885
 
+LauraGentini. (2024). LauraGentini/QRL [Jupyter Notebook]. https://github.com/LauraGentini/QRL (Original work published 2021)
+
 Yao, J., Huang, Y., Wan, Z., Zhang, L., Sun, C., & Zhang, X. (2017). Minimum-time trajectory planning for an inchworm-like climbing robot based on quantum-behaved particle swarm optimization. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, 231(18), 3443–3454. https://doi.org/10.1177/0954406216646138
 
 Mannone, M., Seidita, V., & Chella, A. (2023). Modeling and designing a robotic swarm: A quantum computing approach. Swarm and Evolutionary Computation, 79, 101297. https://doi.org/10.1016/j.swevo.2023.101297
