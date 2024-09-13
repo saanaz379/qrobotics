@@ -84,4 +84,5 @@ Sriarunothai, T., Wölk, S., Giri, G. S., Friis, N., Dunjko, V., Briegel, H. J.,
 La Cour, B. R., Maynard, M., Shroff, P., Ko, G., & Ellis, E. (2022). The Virtual Quantum Optics Laboratory. 2022 IEEE International Conference on Quantum Computing and Engineering (QCE), 677–687. https://doi.org/10.1109/QCE53715.2022.00091
 
 Flamini, F., Krumm, M., Fiderer, L. J., Müller, T., & Briegel, H. J. (2024). Towards interpretable quantum machine learning via single-photon quantum walks. Quantum Science and Technology, 9(4), 045011. https://doi.org/10.1088/2058-9565/ad5907
+
 Miller, B., Sawhney, R., Crane, K., & Gkioulekas, I. (2024). Walkin’ Robin: Walk on Stars with Robin Boundary Conditions. ACM Trans. Graph., 43(4), 41:1-41:18. https://doi.org/10.1145/3658153
